@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++ to improve my Competitive coding.
 - 👯 I’m looking to collaborate with other Web Developers.
 - 📫 How to reach me: <a src="mailto:rithinja@gmail.com">rithinja@gmail.com</a>
-- ⚡ Fun fact: I am an otaku(a person who watches anime).
+- ⚡ Fun fact: I am an otaku(a person who watches anime), CAC stand for Coffee Addicted Coder.
 
 
 ### Connect with me:
@@ -33,7 +33,7 @@
 <br />
 
 
-<img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api?username=rithin-jose&show_icons=true&hide_border=true" />
+<img align="left" alt="Rithin Jose Github Stats" src="https://github-readme-stats.vercel.app/api?username=rithin-jose&show_icons=true&hide_border=true" />
 <br />
 <br />
 <br />
@@ -41,7 +41,10 @@
 <br />
 <br />
 <br />
-<img align="left" alt="Christy-Varghese Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithin-jose&layout=compact" />
+<br />
+<br />
+
+<img align="left" alt="Rithin Jose Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithin-jose" />
 
 
 [website]:https://rithinjose.tech/
