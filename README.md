@@ -28,7 +28,7 @@
 <img align="left" alt="PS" width="34px" src="https://img.icons8.com/plasticine/100/000000/adobe-photoshop.png"/>
 <img align="left" alt="XD" width="34px" src="https://img.icons8.com/plasticine/100/000000/adobe-xd.png"/>
 
-
+<!--
 <br />
 <br />
 
@@ -45,7 +45,7 @@
 <br />
 
 <img align="left" alt="Rithin Jose Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithin-jose" />
-
+-->
 
 [website]:https://rithinjose.tech/
 [twitter]: https://twitter.com/rithinja
