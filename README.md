@@ -1,5 +1,5 @@
 ### Hi there, I'm Rithin Jose (CAC)👋
-## I'm a Developer\
+## I'm a Developer
 - 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently learning C++ to improve my Competitive coding.
 - 👯 I’m looking to collaborate with other Web Developers.
